@@ -30,7 +30,7 @@ SECRET_KEY = 'fjc6f-5uz^o_=9y6=t+b+r355@sbu$_lrs#*3y@)s-c_@57o!j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['web-production-52e9.up.railway.app']
+ALLOWED_HOSTS = ['newsapp-blog.up.railway.app']
 
 
 # Application definition
