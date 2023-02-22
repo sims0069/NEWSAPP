@@ -6,6 +6,7 @@ Django==4.1.7
 django-crispy-forms==2.0
 djangorestframework==3.14.0
 filelock==3.8.2
+gunicorn==20.1.0
 pbr==5.11.0
 Pillow==9.4.0
 pipenv==2022.11.30
@@ -17,3 +18,4 @@ stevedore==4.1.1
 virtualenv==20.17.1
 virtualenv-clone==0.5.7
 virtualenvwrapper==4.8.4
+whitenoise==6.3.0
